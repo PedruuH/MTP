@@ -9,4 +9,5 @@ int main ()
     printf("\n Digite um numero inteiro entre 1 e 1000: \n");
     scanf("%d",n);
     return 0;
+    
 }
