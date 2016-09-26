@@ -19,4 +19,5 @@ int main()
         printf("%g\n", (float) rand()/ (float)RAND_MAX);
     }
     return 0;
+    
 }
